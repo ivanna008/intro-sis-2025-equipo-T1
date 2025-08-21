@@ -77,15 +77,15 @@ Resultado:
 ```markdown
 | Nombre  | Rol       | GitHub        |
 |---------|-----------|---------------|
-| Camilo  | Desarrolladora | @JBHanck |
+| Camilo  | Desarrollador | @JBHanck |
 | Daniela | Tester    | @Danielaparra121 |
 | Jader   | Líder     | @Jader Suárez     |
 ```
 
 | Nombre  | Rol            | GitHub   |
 |---------|----------------|----------|
-| Camilo  | Desarrolladora | @JBHanck  |
-| ivanna  | Tester         | @ivanna008 |
+| Camilo  | Desarrollador | @JBHanck  |
+| Ivanna  | Tester         | @ivanna008 |
 |  Jader  | Líder          | @Jader Suárez|
 
 ---
@@ -106,60 +106,3 @@ def saludar(nombre):
     print(f"Hola, {nombre}!")
 ```
 
-
-
-
-
-
-# Bitácora de Actividades del Equipo
-
-Registro de actividades realizadas por el equipo.
-
----
-
-## 2025-08-20
-
-- **Responsable:** Ana Torres
-- **Actividad:** Inicialización del repositorio y creación de la rama principal
-- **Rama:** `main`
-- **Pull Request:** _No aplica_
-
----
-
-## 2025-08-21
-
-- **Responsable:** Luis Fernández
-- **Actividad:** Implementación de la estructura de carpetas y primer archivo de documentación
-- **Rama:** `docs/estructura`
-- **Pull Request:** [#1 Documentación inicial](https://github.com/owner/repo/pull/1)
-
----
-
-## 2025-08-22
-
-- **Responsable:** Marta Pérez
-- **Actividad:** Desarrollo de la función de login
-- **Rama:** `feature/login`
-- **Pull Request:** [#2 Agrega función de login](https://github.com/owner/repo/pull/2)
-
----
-
-## 2025-08-23
-
-- **Responsable:** Carlos Ramírez
-- **Actividad:** Corrección de bugs en módulo de autenticación
-- **Rama:** `fix/auth-bugs`
-- **Pull Request:** [#3 Corrige autenticación](https://github.com/owner/repo/pull/3)
-
----
-
-## 2025-08-24
-
-- **Responsable:** Equipo completo
-- **Actividad:** Revisión y merge de Pull Requests abiertos
-- **Rama:** `main`
-- **Pull Request:** [#1](https://github.com/owner/repo/pull/1), [#2](https://github.com/owner/repo/pull/2), [#3](https://github.com/owner/repo/pull/3)
-
----
-
-> _Actualiza esta bitácora cada vez que se realice una nueva actividad._

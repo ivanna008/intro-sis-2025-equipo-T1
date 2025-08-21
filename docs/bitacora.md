@@ -34,9 +34,9 @@ Registro de actividades realizadas por el equipo.
 ## 2025-08-18
 
 - **Responsable:** Daniela Parra 
-- **Actividad:** Corrección de bugs en módulo de autenticación
-- **Rama:** `fix/auth-bugs`
-- **Pull Request:** [#3 Corrige autenticación](https://github.com/owner/repo/pull/3)
+- **Actividad:** Creacion de pull request
+- **Rama:** `docs/readme docs/documentacion docs/guia-markdown`
+- **Pull Request:** [#1, #2, #6 readme, documentacion y guia-markdown](https://github.com/owner/repo/pull/3)
 
 ---
 
@@ -50,5 +50,6 @@ Registro de actividades realizadas por el equipo.
 
 # 2025-08-21 
 - Daniela creó la rama docs/readme, docs/documentacion y docs/guia-markdown.
+- Ivanna acepto los PR.
 
 ---

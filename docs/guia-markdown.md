@@ -162,4 +162,4 @@ Registro de actividades realizadas por el equipo.
 
 ---
 
-> _Actualiza esta bitácora cada vez q
+> _Actualiza esta bitácora cada vez que se realice una nueva actividad._

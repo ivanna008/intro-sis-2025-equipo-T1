@@ -6,7 +6,7 @@ Registro de actividades realizadas por el equipo.
 
 ## 2025-08-20
 
-- **Responsable:** Ana Torres
+- **Responsable:** Ivanna Suarez
 - **Actividad:** Inicialización del repositorio y creación de la rama principal
 - **Rama:** `main`
 - **Pull Request:** _No aplica_
@@ -15,7 +15,7 @@ Registro de actividades realizadas por el equipo.
 
 ## 2025-08-21
 
-- **Responsable:** Luis Fernández
+- **Responsable:** Camilo Garcia
 - **Actividad:** Implementación de la estructura de carpetas y primer archivo de documentación
 - **Rama:** `docs/estructura`
 - **Pull Request:** [#1 Documentación inicial](https://github.com/owner/repo/pull/1)
@@ -24,7 +24,7 @@ Registro de actividades realizadas por el equipo.
 
 ## 2025-08-22
 
-- **Responsable:** Marta Pérez
+- **Responsable:** Jader Suarez 
 - **Actividad:** Desarrollo de la función de login
 - **Rama:** `feature/login`
 - **Pull Request:** [#2 Agrega función de login](https://github.com/owner/repo/pull/2)
@@ -33,7 +33,7 @@ Registro de actividades realizadas por el equipo.
 
 ## 2025-08-23
 
-- **Responsable:** Carlos Ramírez
+- **Responsable:** Daniela Parra 
 - **Actividad:** Corrección de bugs en módulo de autenticación
 - **Rama:** `fix/auth-bugs`
 - **Pull Request:** [#3 Corrige autenticación](https://github.com/owner/repo/pull/3)
